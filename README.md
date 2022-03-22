@@ -2,6 +2,10 @@
 Neo4j project based on DBLP graph database.
 Based on an UPC assignment.  
 
+**TOOLS REQUIRED**
+
+- Neo4j Desktop Version https://neo4j.com/download/ with Graph Data Science library installed (https://neo4j.com/docs/graph-data-science/current/installation/)
+- R or RStudio for data generation (not strictly necessary if using already preprocesessed data)
 
 **DATA**
 There are two ways: 
