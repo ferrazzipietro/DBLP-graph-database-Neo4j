@@ -1,0 +1,501 @@
+organization:ID,name:string[],type:string
+1,Harvard University,University
+2,Massachusetts Institute of Technology,University
+3,Stanford University,University
+4,University of Cambridge,University
+5,University of Oxford,University
+6,Princeton University,University
+7,Columbia University,University
+8,University of Chicago,University
+9,University of Pennsylvania,University
+10,Yale University,University
+11,California Institute of Technology,University
+12,"University of California, Berkeley",University
+13,University of Tokyo,University
+14,Cornell University,University
+15,"University of Michigan, Ann Arbor",University
+16,Johns Hopkins University,University
+17,Northwestern University,University
+18,"University of California, Los Angeles",University
+19,University College London,University
+20,Duke University,University
+21,PSL University,University
+22,University of Illinois at Urbana–Champaign,University
+23,University of Washington - Seattle,University
+24,University of Toronto,University
+25,University of Wisconsin–Madison,University
+26,New York University,University
+27,McGill University,University
+28,Kyoto University,University
+29,ETH Zurich,University
+30,Imperial College London,University
+31,Seoul National University,University
+32,Paris-Saclay University,University
+33,University of Texas at Austin,University
+34,"University of California, San Diego",University
+35,Karolinska Institute,University
+36,Sorbonne University,University
+37,University of Copenhagen,University
+38,"University of California, San Francisco",University
+39,University of North Carolina at Chapel Hill,University
+40,Dartmouth College,University
+41,Institut Polytechnique de Paris,University
+42,University of Paris,University
+43,King's College London,University
+44,Ludwig Maximilian University of Munich,University
+45,University of Edinburgh,University
+46,University of Minnesota - Twin Cities,University
+47,Washington University in St. Louis,University
+48,University of British Columbia,University
+49,Rockefeller University,University
+50,Rutgers University–New Brunswick,University
+51,University of Southern California,University
+52,"University of California, Davis",University
+53,Vanderbilt University,University
+54,Pennsylvania State University,University
+55,Free University of Berlin,University
+56,Ohio State University,University
+57,University of Manchester,University
+58,Tsinghua University,University
+59,Peking University,University
+60,Humboldt University of Berlin,University
+61,Purdue University,University
+62,University of Texas Southwestern Medical Center,University
+63,University of Melbourne,University
+64,Hebrew University of Jerusalem,University
+65,University of Zurich,University
+66,Brown University,University
+67,Weizmann Institute of Science,University
+68,University of Colorado Boulder,University
+69,University of Virginia,University
+70,Heidelberg University,University
+71,Utrecht University,University
+72,University of Pittsburgh,University
+73,University of Chinese Academy of Sciences,University
+74,"Texas A&M University, College Station",University
+75,"University of Maryland, College Park",University
+76,Georgia Institute of Technology,University
+77,University of Oslo,University
+78,Osaka University,University
+79,University of Birmingham,University
+80,Technical University of Munich,University
+81,University of Alberta,University
+82,"University of California, Irvine",University
+83,University of Rochester,University
+84,University of Amsterdam,University
+85,Carnegie Mellon University,University
+86,University of Florida,University
+87,Leiden University,University
+88,Uppsala University,University
+89,National University of Singapore,University
+90,National Taiwan University,University
+91,University of Bristol,University
+92,University of Göttingen,University
+93,University of Arizona,University
+94,Boston University,University
+95,"University of California, Santa Barbara",University
+96,Erasmus University Rotterdam,University
+97,Keio University,University
+98,University of Sydney,University
+99,University of Geneva,University
+100,University of Basel,University
+101,University of Leeds,University
+102,Shanghai Jiao Tong University,University
+103,University of Groningen,University
+104,École Polytechnique Fédérale de Lausanne,University
+105,University of São Paulo,University
+106,University of Texas MD Anderson Cancer Center,University
+107,Aarhus University,University
+108,University of Tübingen,University
+109,University of Queensland,University
+110,Zhejiang University,University
+111,Indiana University Bloomington,University
+112,University of Utah,University
+113,Sapienza University of Rome,University
+114,University of New South Wales,University
+115,Fudan University,University
+116,KU Leuven,University
+117,University of Southampton,University
+118,University of Helsinki,University
+119,INSEAD,University
+120,University of Montreal,University
+121,Ghent University,University
+122,University of Freiburg,University
+123,University of Bonn,University
+124,Emory University,University
+125,Australian National University,University
+126,University of Glasgow,University
+127,Baylor College of Medicine,University
+128,Monash University,University
+129,Case Western Reserve University,University
+130,Nagoya University,University
+131,University of Barcelona,University
+132,Tohoku University,University
+133,Goethe University Frankfurt,University
+134,Tufts University,University
+135,University of Nottingham,University
+136,Nanyang Technological University,University
+137,University of Liverpool,University
+138,Grenoble Alpes University,University
+139,University of Science and Technology of China,University
+140,KTH Royal Institute of Technology,University
+141,Lund University,University
+142,VU Amsterdam,University
+143,University of Bern,University
+144,Stockholm University,University
+145,University of Iowa,University
+146,Michigan State University,University
+147,Rice University,University
+148,University of Strasbourg,University
+149,University of Colorado Anschutz Medical Campus,University
+150,University of Sheffield,University
+151,Tokyo Institute of Technology,University
+152,Tel Aviv University,University
+153,Sun Yat-sen University,University
+154,Queen Mary University of London,University
+155,Radboud University,University
+156,University of Western Australia,University
+157,Aix-Marseille University,University
+158,University of Massachusetts Amherst,University
+159,Cardiff University,University
+160,Huazhong University of Science and Technology,University
+161,Technion – Israel Institute of Technology,University
+162,Nanjing University,University
+163,Korea University,University
+164,McMaster University,University
+165,University of Padova,University
+166,University of Hamburg,University
+167,Iowa State University,University
+168,University of Montpellier,University
+169,Yonsei University,University
+170,University of Notre Dame,University
+171,University of Hong Kong,University
+172,Icahn School of Medicine at Mount Sinai,University
+173,University of Gothenburg,University
+174,University of Warwick,University
+175,École nationale d'administration,University
+176,University of Milan,University
+177,University of Bologna,University
+178,Newcastle University,University
+179,University of Alabama at Birmingham,University
+180,Wageningen University & Research,University
+181,Arizona State University,University
+182,Norwegian University of Science and Technology,University
+183,Western University,University
+184,University of Cologne,University
+185,University of Kansas,University
+186,Autonomous University of Barcelona,University
+187,Chinese University of Hong Kong,University
+188,Waseda University,University
+189,University of Lausanne,University
+190,University of Calgary,University
+191,North Carolina State University,University
+192,Sungkyunkwan University,University
+193,University of Münster,University
+194,Lomonosov Moscow State University,University
+195,University of Connecticut,University
+196,Technical University of Denmark,University
+197,Université catholique de Louvain,University
+198,Stony Brook University,University
+199,Brandeis University,University
+200,University of Waterloo,University
+201,University of Lisbon,University
+202,University of Ottawa,University
+203,University of Würzburg,University
+204,University of Georgia,University
+205,Xi'an Jiaotong University,University
+206,Harbin Institute of Technology,University
+207,University of Vienna,University
+208,Johannes Gutenberg University Mainz,University
+209,Yeshiva University,University
+210,Technical University of Dresden,University
+211,RWTH Aachen University,University
+212,The Scripps Research Institute,University
+213,University of Adelaide,University
+214,University of Illinois at Chicago,University
+215,Wuhan University,University
+216,Kiel University,University
+217,University of Missouri–Columbia,University
+218,Trinity College Dublin,University
+219,Université libre de Bruxelles,University
+220,Hokkaido University,University
+221,Claude Bernard University Lyon 1,University
+222,Xiamen University,University
+223,KAIST,University
+224,Kyushu University,University
+225,Shandong University,University
+226,University of Miami,University
+227,University of Erlangen–Nuremberg,University
+228,Georgetown University,University
+229,Hong Kong University of Science and Technology,University
+230,University of Turin,University
+231,Tianjin University,University
+232,London School of Hygiene & Tropical Medicine,University
+233,Charles University in Prague,University
+234,Karlsruhe Institute of Technology,University
+235,P.N. Lebedev Physical Institute of the Russian Academy of Sciences,University
+236,University of Cincinnati,University
+237,Wake Forest University,University
+238,University of Naples Federico II,University
+239,Paul Sabatier University,University
+240,Sichuan University,University
+241,University of Sussex,University
+242,"University of California, Riverside",University
+243,University of Bordeaux,University
+244,University of Texas Health Science Center at Houston,University
+245,University of Leicester,University
+246,University of Reading,University
+247,Complutense University of Madrid,University
+248,Jilin University,University
+249,Nankai University,University
+250,Maastricht University,University
+251,"University of Tennessee, Knoxville",University
+252,HEC Paris,University
+253,South China University of Technology,University
+254,Virginia Commonwealth University,University
+255,Colorado State University,University
+256,Tongji University,University
+257,University of Houston,University
+258,University of Florence,University
+259,Delft University of Technology,University
+260,Southeast University,University
+261,University of Tsukuba,University
+262,University of Auckland,University
+263,University of Exeter,University
+264,National and Kapodistrian University of Athens,University
+265,University of Pisa,University
+266,City University of Hong Kong,University
+267,Hong Kong Polytechnic University,University
+268,Oregon Health & Science University,University
+269,University of Cape Town,University
+270,Oregon State University,University
+271,Virginia Tech,University
+272,University of East Anglia,University
+273,Central South University,University
+274,University of Manitoba,University
+275,Florida State University,University
+276,University of Bergen,University
+277,"Soochow University, China",University
+278,King Abdulaziz University,University
+279,Leipzig University,University
+280,University of Aberdeen,University
+281,University of Genoa,University
+282,Autonomous University of Madrid,University
+283,University of Massachusetts Medical School,University
+284,"University of California, Santa Cruz",University
+285,University of Lorraine,University
+286,"University of Maryland, Baltimore",University
+287,National Autonomous University of Mexico,University
+288,University of Valencia,University
+289,University College Dublin,University
+290,University of Antwerp,University
+291,University of Liège,University
+292,University of the Witwatersrand,University
+293,University at Buffalo,University
+294,Laval University,University
+295,Medical University of Vienna,University
+296,Beihang University,University
+297,University of South Florida,University
+298,Wayne State University,University
+299,University of Delaware,University
+300,University of Pavia,University
+301,Walmart,Company
+302,Amazon,Company
+303,Apple Inc.,Company
+304,CVS Health,Company
+305,ExxonMobil,Company
+306,UnitedHealth Group,Company
+307,Berkshire Hathaway,Company
+308,McKesson Corporation,Company
+309,AmerisourceBergen,Company
+310,Alphabet Inc.,Company
+311,AT&T,Company
+312,Cigna,Company
+313,Ford Motor Company,Company
+314,Costco,Company
+315,FedEx,Company
+316,Chevron Corporation,Company
+317,Cardinal Health,Company
+318,Microsoft,Company
+319,JPMorgan Chase,Company
+320,General Motors,Company
+321,Walgreens Boots Alliance,Company
+322,Verizon Communications,Company
+323,Marathon Petroleum,Company
+324,Kroger,Company
+325,Fannie Mae,Company
+326,Bank of America,Company
+327,The Home Depot,Company
+328,Phillips 66,Company
+329,Comcast,Company
+330,Anthem,Company
+331,Wells Fargo,Company
+332,Citigroup,Company
+333,Valero Energy,Company
+334,General Electric,Company
+335,Dell Technologies,Company
+336,"Meta Platforms, Inc.",Company
+337,Johnson & Johnson,Company
+338,State Farm,Company
+339,Target Corporation,Company
+340,Intel,Company
+341,IBM,Company
+342,United Technologies,Company
+343,Boeing,Company
+344,Procter & Gamble,Company
+345,Freddie Mac,Company
+346,Centene,Company
+347,United Parcel Service,Company
+348,Lowe's,Company
+349,PepsiCo,Company
+350,MetLife,Company
+351,The Walt Disney Company,Company
+352,Lockheed Martin,Company
+353,Humana,Company
+354,Prudential Financial,Company
+355,Archer Daniels Midland,Company
+356,Albertsons,Company
+357,Sysco,Company
+358,HP Inc.,Company
+359,Energy Transfer Partners,Company
+360,Goldman Sachs,Company
+361,Morgan Stanley,Company
+362,Caterpillar Inc.,Company
+363,Cisco,Company
+364,Pfizer,Company
+365,HCA Healthcare,Company
+366,AIG,Company
+367,American Express,Company
+368,Delta Air Lines,Company
+369,Merck & Co.,Company
+370,American Airlines,Company
+371,Charter Communications,Company
+372,Allstate,Company
+373,New York Life Insurance Company,Company
+374,Nationwide Mutual Insurance Company,Company
+375,Best Buy,Company
+376,United Airlines Holdings,Company
+377,Liberty Mutual Group,Company
+378,Dow Chemical Company,Company
+379,Tyson Foods,Company
+380,TJX,Company
+381,TIAA,Company
+382,Oracle Corporation,Company
+383,General Dynamics,Company
+384,John Deere,Company
+385,"Nike, Inc.",Company
+386,Progressive Corporation,Company
+387,Publix,Company
+388,Coca-Cola Company,Company
+389,Massachusetts Mutual Life Insurance Company,Company
+390,Tech Data,Company
+391,World Fuel Services,Company
+392,Honeywell,Company
+393,ConocoPhillips,Company
+394,USAA,Company
+395,Exelon,Company
+396,Northrop Grumman,Company
+397,Capital One,Company
+398,Plains All American Pipeline,Company
+399,AbbVie,Company
+400,StoneX Group Inc.,Company
+401,Enterprise Products,Company
+402,Northwestern Mutual,Company
+403,3M,Company
+404,Abbott Laboratories,Company
+405,CHS Inc.,Company
+406,The Travelers Companies,Company
+407,"Tesla, Inc.",Company
+408,Philip Morris International,Company
+409,Raytheon Company,Company
+410,Hewlett Packard Enterprise,Company
+411,Arrow Electronics,Company
+412,ViacomCBS,Company
+413,Dollar General,Company
+414,U.S. Bancorp,Company
+415,Starbucks,Company
+416,Bristol-Myers Squibb,Company
+417,US Foods,Company
+418,Mondelez International,Company
+419,Paccar,Company
+420,Thermo Fisher Scientific,Company
+421,"Macy's, Inc.",Company
+422,Jabil,Company
+423,Kraft Heinz,Company
+424,Duke Energy,Company
+425,PBF Energy,Company
+426,Qualcomm,Company
+427,NGL Energy Partners,Company
+428,CBRE Group,Company
+429,Baker Hughes,Company
+430,Synnex,Company
+431,Dollar Tree,Company
+432,Cummins,Company
+433,United Natural Foods,Company
+434,Micron Technology,Company
+435,Amgen,Company
+436,Penske Automotive Group,Company
+437,Visa Inc.,Company
+438,Broadcom Inc.,Company
+439,Nucor,Company
+440,Gilead Sciences,Company
+441,Southwest Airlines,Company
+442,Halliburton,Company
+443,CenturyLink,Company
+444,International Paper,Company
+445,Eli Lilly and Company,Company
+446,Aflac,Company
+447,Lennar Corporation,Company
+448,Occidental Petroleum,Company
+449,Union Pacific Corporation,Company
+450,Rite Aid,Company
+451,PNC Financial Services,Company
+452,DuPont,Company
+453,Southern Company,Company
+454,AutoNation,Company
+455,DXC Technology,Company
+456,McDonald's,Company
+457,Marriott International,Company
+458,ManpowerGroup,Company
+459,Bank of New York Mellon,Company
+460,Hartford Financial Services,Company
+461,Danaher Corporation,Company
+462,Whirlpool Corporation,Company
+463,AECOM,Company
+464,Netflix,Company
+465,Kohl's,Company
+466,Lear Corporation,Company
+467,Altria,Company
+468,Performance Food Group,Company
+469,Avnet,Company
+470,Synchrony Financial,Company
+471,Genuine Parts Company,Company
+472,NextEra Energy,Company
+473,CarMax,Company
+474,Tenet Healthcare,Company
+475,Kimberly-Clark,Company
+476,Emerson Electric,Company
+477,WestRock,Company
+478,CDW,Company
+479,JLL,Company
+480,Sherwin-Williams,Company
+481,Fluor Corporation,Company
+482,PayPal,Company
+483,D. R. Horton,Company
+484,HollyFrontier,Company
+485,Tenneco,Company
+486,EOG Resources,Company
+487,"Becton, Dickinson and Company",Company
+488,Lincoln National Corporation,Company
+489,Pacific Gas and Electric Company,Company
+490,Salesforce,Company
+491,Mastercard,Company
+492,General Mills,Company
+493,Molina Healthcare,Company
+494,Cognizant,Company
+495,Marsh & McLennan Companies,Company
+496,XPO Logistics,Company
+497,Dominion Energy,Company
+498,Western Digital,Company
+499,Gap Inc.,Company
+500,Aramark,Company

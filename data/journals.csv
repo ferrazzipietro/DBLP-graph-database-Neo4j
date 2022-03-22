@@ -1,0 +1,999 @@
+:ID,journal:string
+11998315,Sci. Eng. Ethics
+11998316,J. Econ. Theory
+11998321,IEEE Control. Syst. Lett.
+11998323,Internet Math.
+11998325,Manag. Sci.
+11998326,Simul.
+11998327,Rev. Iberoam. de Tecnol. del Aprendiz.
+11998328,Dyn. Games Appl.
+11998331,J. Sci. Res.
+11998332,J. Braz. Comput. Soc.
+11998334,Reliab. Comput.
+11998335,Int. J. Intell. Syst. Technol. Appl.
+11998336,Frontiers Blockchain
+11998338,Des. Autom. Embed. Syst.
+11998339,Comput. Phys. Commun.
+11998341,Decis. Support Syst.
+11998345,IEEE Trans. Veh. Technol.
+11998346,J. Assoc. Inf. Sci. Technol.
+11998347,J. Am. Soc. Inf. Sci.
+11998349,Proc. ACM Program. Lang.
+11998352,Soc. Choice Welf.
+11998354,CLEI Electron. J.
+11998355,SIGARCH Comput. Archit. News
+11998357,Technometrics
+11998359,Neural Comput. Appl.
+11998361,J. Exp. Theor. Artif. Intell.
+11998362,Inteligencia Artif.
+11998365,J. Inf. Secur. Appl.
+11998368,Fundam. Informaticae
+11998371,J. Nonlinear Sci.
+11998372,Int. J. Comput. Sci. Eng.
+11998376,Int. J. Inf. Syst. Serv. Sect.
+11998377,J. Inf. Hiding Multim. Signal Process.
+11998378,J. Geogr. Syst.
+11998379,IEEE Trans. Multi Scale Comput. Syst.
+11998381,Int. J. Autom. Control.
+11998383,Discret. Event Dyn. Syst.
+11998384,Turkish J. Electr. Eng. Comput. Sci.
+11998385,"J. Comb. Theory, Ser. B"
+11998388,Chic. J. Theor. Comput. Sci.
+11998391,IPSJ Trans. Syst. LSI Des. Methodol.
+11998392,Electron. J. Comb.
+11998393,Int. J. Handheld Comput. Res.
+11998397,Asia Pac. J. Oper. Res.
+11998398,Artif. Life
+11998401,Open Syst. Inf. Dyn.
+11998402,Digit. Investig.
+11998403,Electron. Commer. Res.
+11998407,Datenbank-Spektrum
+11998408,Linguamática
+11998409,AI Matters
+11998412,Rev. d'Intelligence Artif.
+11998415,Int. J. Appl. Math. Comput. Sci.
+11998416,J. Intell. Fuzzy Syst.
+11998417,IEEE J. Solid State Circuits
+11998418,ACM Trans. Multim. Comput. Commun. Appl.
+11998424,Online Inf. Rev.
+11998425,Int. J. Comput. Sci. Sport
+11998427,Int. J. Cooperative Inf. Syst.
+11998428,SN Comput. Sci.
+11998432,WIREs Data Mining Knowl. Discov.
+11998433,J. Internet Serv. Appl.
+11998434,J. Log. Algebraic Methods Program.
+11998435,J. Log. Program.
+11998436,J. Semant.
+11998437,Networks Heterog. Media
+11998438,J. Convergence Inf. Technol.
+11998439,ACM Trans. Access. Comput.
+11998442,Gov. Inf. Q.
+11998443,IEEE Trans. Medical Imaging
+11998447,IEEE Data Eng. Bull.
+11998448,IEEE Database Eng. Bull.
+11998449,Ann. Oper. Res.
+11998451,Int. J. Sens. Networks
+11998452,Netw. Commun. Technol.
+11998453,GetMobile Mob. Comput. Commun.
+11998455,J. Robotics
+11998456,J. Biomed. Semant.
+11998457,Int. J. Grid Util. Comput.
+11998458,Int. J. Inf. Sec.
+11998461,Inf. Vis.
+11998463,IET Softw.
+11998465,IEE Proc. Softw.
+11998467,Comput. Electron. Agric.
+11998468,Cryptologia
+11998471,Int. J. Appl. Pattern Recognit.
+11998474,Frontiers Appl. Math. Stat.
+11998478,Int. J. Game Based Learn.
+11998479,Int. J. Prod. Res.
+11998481,Photonic Netw. Commun.
+11998482,Veh. Commun.
+11998484,Trait. Autom. des Langues
+11998485,Int. J. Algebra Comput.
+11998491,ACM SIGPLAN Notices
+11998492,Auton. Robots
+11998493,Int. J. Internet Protoc. Technol.
+11998496,IEEE Internet Comput.
+11998498,ISPRS Int. J. Geo Inf.
+11998499,Technol. Knowl. Learn.
+11998501,Ad Hoc Sens. Wirel. Networks
+11998502,Pers. Ubiquitous Comput.
+11998503,IEEE Geosci. Remote. Sens. Lett.
+11998504,Ind. Robot
+11998506,J. Inf. Sci. Eng.
+11998507,Ann. UMCS Informatica
+11998508,Optim. Methods Softw.
+11998509,IEEE Trans. Evol. Comput.
+11998513,GeoInformatica
+11998514,Adv. Complex Syst.
+11998521,Netw. Secur.
+11998522,J. Intell. Robotic Syst.
+11998523,J. Comput. Inf. Syst.
+11998524,IMA J. Math. Control. Inf.
+11998525,Acta Cybern.
+11998526,Future Internet
+11998528,ACM Trans. Inf. Syst. Secur.
+11998534,Synth.
+11998535,J. Cloud Comput.
+11998538,Unmanned Syst.
+11998539,Comput. Inf. Sci.
+11998541,IET Biom.
+11998544,ACM Trans. Math. Softw.
+11998545,Kybernetika
+11998546,Appl. Artif. Intell.
+11998548,ACM Trans. Reconfigurable Technol. Syst.
+11998549,Public Libr. Q.
+11998553,INFORMS J. Comput.
+11998555,IEEE Commun. Stand. Mag.
+11998557,Remote. Sens.
+11998558,EAI Endorsed Trans. e Learn.
+11998559,Inform. Forsch. Entwickl.
+11998563,Inf. Secur. J. A Glob. Perspect.
+11998564,iJET
+11998565,Int. J. Netw. Manag.
+11998567,Int. J. Comput. Math.
+11998568,Found. Trends Netw.
+11998569,J. Electronic Imaging
+11998572,Electron. Mark.
+11998573,Frontiers Robotics AI
+11998574,Electron. Notes Theor. Comput. Sci.
+11998576,Secur. Informatics
+11998582,Inf. Process. Lett.
+11998583,Comput. Informatics
+11998586,Neuroinformatics
+11998587,Concurr. Comput. Pract. Exp.
+11998588,Concurr. Pract. Exp.
+11998589,IEEE Trans. Mob. Comput.
+11998591,J. Intell. Transp. Syst.
+11998592,Int. J. Virtual Real.
+11998594,J. Geogr. Inf. Syst.
+11998597,J. Vis. Commun. Image Represent.
+11998598,R J.
+11998602,Int. J. Wirel. Inf. Networks
+11998604,RAIRO Oper. Res.
+11998605,Stat. Comput.
+11998606,Discuss. Math. Graph Theory
+11998608,Int. J. People Oriented Program.
+11998609,Central Eur. J. Oper. Res.
+11998611,ACM Trans. Knowl. Discov. Data
+11998612,Knowl. Eng. Rev.
+11998615,Image Vis. Comput.
+11998616,J. Inf. Process.
+11998617,Signal Process.
+11998619,HMD Prax. Wirtsch.
+11998624,Monde des Util. Anal. Données
+11998625,IEEE Trans. Reliab.
+11998628,Int. J. Netw. Secur.
+11998639,Int. J. Web Appl.
+11998642,Int. J. Art Cult. Des. Technol.
+11998643,Parallel Process. Lett.
+11998646,Trans. High Perform. Embed. Archit. Compil.
+11998647,Empir. Softw. Eng.
+11998648,J. Object Technol.
+11998649,Int. J. Intell. Syst.
+11998651,J. Math. Model. Algorithms Oper. Res.
+11998652,J. Math. Model. Algorithms
+11998654,Int. J. Artif. Intell. Educ.
+11998655,ACM Trans. Comput. Log.
+11998657,Int. J. Interact. Mob. Technol.
+11998658,Comput. Optim. Appl.
+11998661,Data Min. Knowl. Discov.
+11998663,Auton. Agents Multi Agent Syst.
+11998664,Multidimens. Syst. Signal Process.
+11998665,Open J. Internet Things
+11998667,Int. J. Model. Simul. Sci. Comput.
+11998669,Inf. Res.
+11998671,Int. J. Cogn. Informatics Nat. Intell.
+11998673,SIAM J. Numer. Anal.
+11998674,Brain Connect.
+11998675,Wirtschaftsinformatik Manag.
+11998677,Cogn. Comput.
+11998682,Int. J. Technol. Hum. Interact.
+11998683,IEEE Trans. Wirel. Commun.
+11998684,J. Quant. Linguistics
+11998685,ACM J. Data Inf. Qual.
+11998687,Kybernetes
+11998688,Evol. Comput.
+11998689,Adv. Decis. Sci.
+11998691,IEEE Trans. Serv. Comput.
+11998694,Complex Syst.
+11998695,Intell. Autom. Soft Comput.
+11998698,Comput. Networks
+11998699,Comput. Networks ISDN Syst.
+11998701,Genom. Proteom. Bioinform.
+11998706,Inf. Sci.
+11998707,Pattern Recognit.
+11998708,RITA
+11998709,Künstliche Intell.
+11998712,AI Commun.
+11998713,World Wide Web
+11998715,Top. Cogn. Sci.
+11998717,J. Stat. Theory Appl.
+11998719,Frontiers ICT
+11998721,Frontiers Comput. Neurosci.
+11998722,IET Image Process.
+11998724,Datenbank Rundbr.
+11998727,Int. J. Reconfigurable Comput.
+11998732,Iran J. Comput. Sci.
+11998734,Appl. Comput. Syst.
+11998735,Proc. Priv. Enhancing Technol.
+11998737,Grey Syst. Theory Appl.
+11998738,Int. J. Autom. Comput.
+11998741,Int. J. Pattern Recognit. Artif. Intell.
+11998742,Inroads
+11998743,Oper. Res.
+11998744,Appl. Ontology
+11998745,Int. J. Comput. Sci. Math.
+11998746,IEEE Trans. Aerosp. Electron. Syst.
+11998747,ACM Commun. Comput. Algebra
+11998748,SIGSAM Bull.
+11998749,Algorithms Mol. Biol.
+11998752,Comput. Stat. Data Anal.
+11998753,J. Ambient Intell. Humaniz. Comput.
+11998754,J. Commun.
+11998755,J. Comput. Inf. Sci. Eng.
+11998756,Adv. Eng. Softw.
+11998759,SoftwareX
+11998762,IEEE Access
+11998764,Int. J. Inf. Manag.
+11998765,J. Sensors
+11998766,Comput. Support. Cooperative Work.
+11998768,J. Educ. Technol. Soc.
+11998771,Multim. Syst.
+11998772,Evol. Intell.
+11998773,IT Prof.
+11998774,J. Comput. Neurosci.
+11998775,IEEE Internet Things J.
+11998776,Obj. Logiciel Base données Réseaux
+11998778,Requir. Eng.
+11998781,New Gener. Comput.
+11998784,Comput. Oper. Res.
+11998788,Autom.
+11998789,Ann. GIS
+11998791,IEEE Trans. Very Large Scale Integr. Syst.
+11998793,J. Supercomput.
+11998799,Lang. Resour. Evaluation
+11998801,IEEE Trans. Instrum. Meas.
+11998802,Libr. Hi Tech
+11998803,Ad Hoc Networks
+11998804,Int. J. Comput. Intell. Stud.
+11998805,J. Ambient Intell. Smart Environ.
+11998807,IEEE Trans. Learn. Technol.
+11998811,J. Inf. Data Manag.
+11998812,Qual. Reliab. Eng. Int.
+11998813,Elektrotech. Informationstechnik
+11998814,Interactions
+11998815,FLAP
+11998816,J. Multim.
+11998818,Math. Comput. Simul.
+11998819,J. Comput. Chem.
+11998821,Neural Process. Lett.
+11998823,J. Softw.
+11998825,Dagstuhl Reports
+11998826,Proc. ACM Hum. Comput. Interact.
+11998827,Discret. Math. Theor. Comput. Sci.
+11998831,Simul. Notes Eur.
+11998832,Comput. Sci. Inf. Syst.
+11998833,ACM Trans. Economics and Comput.
+11998834,Pattern Recognit. Lett.
+11998835,J. Lang. Model.
+11998836,SIAM J. Appl. Dyn. Syst.
+11998841,BMC Genom.
+11998845,Comput. Complex.
+11998851,IEEE Trans. Ind. Informatics
+11998852,Int. J. Child Comput. Interact.
+11998856,ACM Trans. Algorithms
+11998858,J. Oper. Res. Soc.
+11998859,Comput. Aided Geom. Des.
+11998862,J. Classif.
+11998863,Adv. Appl. Math.
+11998865,Int. J. Electron. Secur. Digit. Forensics
+11998866,Aslib Proc.
+11998872,Int. J. Bus. Inf. Syst.
+11998873,Biosyst.
+11998874,Int. J. Arts Technol.
+11998875,BIT
+11998876,Comput. Commun.
+11998878,IEEE Ann. Hist. Comput.
+11998884,IEEE ACM Trans. Comput. Biol. Bioinform.
+11998885,ACM SIGCHI Bull.
+11998886,Res. Comput. Sci.
+11998887,J. Theor. Appl. Electron. Commer. Res.
+11998888,ACM SIGSPATIAL Special
+11998889,Int. J. Spatial Data Infrastructures Res.
+11998891,IEEE Trans. Comput. Soc. Syst.
+11998892,J. Complex Networks
+11998893,Appl. Categorical Struct.
+11998895,Comput. Medical Imaging Graph.
+11998896,Quant. Biol.
+11998897,J. Digit. Content Technol. its Appl.
+11998898,J. Cryptol.
+11998899,IEEE Trans. Emerg. Top. Comput.
+11998901,J. Comput. Sci.
+11998902,J. Intell. Inf. Syst.
+11998904,Appl. Algebra Eng. Commun. Comput.
+11998906,Int. J. Digit. Libr.
+11998908,Int. J. Virtual Communities Soc. Netw.
+11998909,Informatics Educ.
+11998911,Reliab. Eng. Syst. Saf.
+11998912,Int. J. Crit. Infrastructure Prot.
+11998913,J. Signal Inf. Process.
+11998914,Int. J. Wavelets Multiresolution Inf. Process.
+11998915,Rev. Int. Géomatique
+11998918,Appl. Math. Comput.
+11998921,Int. J. Unconv. Comput.
+11998922,Inf. Syst. E Bus. Manag.
+11998923,Speech Commun.
+11998927,Int. J. Semantic Web Inf. Syst.
+11998929,OR Spectr.
+11998931,J. Adv. Eng. Comput.
+11998932,Cogn. Technol. Work.
+11998934,IEICE Trans. Inf. Syst.
+11998935,IEICE Trans. Fundam. Electron. Commun. Comput. Sci.
+11998936,IEICE Trans. Electron.
+11998938,EURASIP J. Embed. Syst.
+11998939,J. Interconnect. Networks
+11998941,Int. J. Bus. Data Commun. Netw.
+11998942,Circuits Syst. Signal Process.
+11998943,Medical Image Anal.
+11998945,Int. Trans. Oper. Res.
+11998946,J. Univers. Comput. Sci.
+11998949,J. Comput. Aided Mol. Des.
+11998951,BMC Bioinform.
+11998955,J. Reliab. Intell. Environ.
+11998956,Datenschutz und Datensicherheit
+11998959,Intell. Tutoring Media
+11998962,IBM J. Res. Dev.
+11998963,IET Circuits Devices Syst.
+11998964,Optim. Lett.
+11998966,Int. J. Open Source Softw. Process.
+11998967,Inf. Technol. Dev.
+11998968,J. Strateg. Inf. Syst.
+11998971,J. Robotics Mechatronics
+11998972,Distributed Comput.
+11998974,Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+11998976,Axioms
+11998979,IISE Trans.
+11998981,IEEE Trans. Cogn. Commun. Netw.
+11998982,Neural Parallel Sci. Comput.
+11998983,IEEE Trans. Geosci. Remote. Sens.
+11998984,IET Comput. Digit. Tech.
+11998985,IEEE Trans. Netw. Sci. Eng.
+11998986,Int. J. Approx. Reason.
+11998988,Tech. Sci. Informatiques
+11998989,Int. J. Adv. Oper. Manag.
+11998993,Symmetry
+11998995,SIAM J. Sci. Comput.
+11998996,Comput. Graph.
+11998998,Int. J. Control
+11999001,SIAM J. Discret. Math.
+11999002,Adv. Robotics
+11999003,J. Wirel. Mob. Networks Ubiquitous Comput. Dependable Appl.
+11999004,Eur. J. Control
+11999005,SIGMETRICS Perform. Evaluation Rev.
+11999006,Mach. Transl.
+11999008,NeuroImage
+11999014,Acta Informatica
+11999015,Int. J. Adv. Intell. Paradigms
+11999016,J. Graph Algorithms Appl.
+11999018,J. Frankl. Inst.
+11999019,Autom. Softw. Eng.
+11999024,SIGART Bull.
+11999025,SIGART Newsl.
+11999026,Intell.
+11999028,J. Object Oriented Program.
+11999029,Ann. Math. Artif. Intell.
+11999031,IEEE Robotics Autom. Lett.
+11999032,J. Field Robotics
+11999033,Int. J. Bioinform. Res. Appl.
+11999034,IEEE Trans. Circuits Syst. II Express Briefs
+11999035,Comput. Commun. Rev.
+11999036,J. Softw. Maintenance Res. Pract.
+11999037,J. Softw. Evol. Process.
+11999038,SIAM J. Math. Anal.
+11999039,Int. J. Inf. Syst. Supply Chain Manag.
+11999042,Queueing Syst. Theory Appl.
+11999043,Int. J. Bifurc. Chaos
+11999044,Electron. Commer. Res. Appl.
+11999045,EURASIP J. Wirel. Commun. Netw.
+11999046,Int. J. Nat. Comput. Res.
+11999047,Comput. Ind.
+11999051,Int. J. High Perform. Comput. Appl.
+11999053,Int. J. Syst. Sci.
+11999054,Scholarpedia
+11999055,Comput. Geom.
+11999057,IEEE Wirel. Commun. Lett.
+11999058,ACM Trans. Comput. Hum. Interact.
+11999059,SIGMOD Rec.
+11999063,Appl. Comput. Intell. Soft Comput.
+11999064,Int. J. Image Graph.
+11999065,J. Am. Medical Informatics Assoc.
+11999069,Informatics
+11999071,Int. J. Knowl. Based Organ.
+11999072,Formal Methods Syst. Des.
+11999073,J. Multim. Inf. Syst.
+11999074,IEEE/ACM Trans. Netw.
+11999076,IEEE Signal Process. Lett.
+11999077,Artif. Intell.
+11999079,IEEE Trans. Intell. Transp. Syst.
+11999082,Artif. Intell. Medicine
+11999083,Int. J. Innov. Digit. Econ.
+11999085,MIS Q.
+11999086,Int. J. Comput. Integr. Manuf.
+11999088,Ethics Inf. Technol.
+11999089,Bull. dInformatique Approfondie et Appl.
+11999092,Int. J. Comput. Commun. Control
+11999094,J. Chem. Inf. Comput. Sci.
+11999095,J. Chem. Inf. Model.
+11999096,IEEE Trans. Autom. Control.
+11999097,Commun. Assoc. Inf. Syst.
+11999099,J. Real Time Image Process.
+11999101,Comb.
+11999103,Eng. Comput.
+11999105,PeerJ Comput. Sci.
+11999106,Big Data
+11999107,IEEE Trans. Cybern.
+11999109,Int. J. Medical Informatics
+11999111,Knowl. Inf. Syst.
+11999112,SIAM J. Math. Data Sci.
+11999113,Interact. Learn. Environ.
+11999114,Algorithmic Finance
+11999116,Math. Log. Q.
+11999117,Behav. Inf. Technol.
+11999119,J. Commun. Networks
+11999121,Theory Biosci.
+11999122,Wirel. Commun. Mob. Comput.
+11999124,Commun. Stat. Simul. Comput.
+11999126,Comput. Vis. Image Underst.
+11999127,KSII Trans. Internet Inf. Syst.
+11999128,J. Enterp. Inf. Manag.
+11999132,J. Comput. Phys.
+11999134,Int. J. Hum. Cap. Inf. Technol. Prof.
+11999139,Pervasive Mob. Comput.
+11999141,Displays
+11999142,First Monday
+11999143,J. Autom. Lang. Comb.
+11999144,Int. J. Comput. Vis. Image Process.
+11999146,Telematics Informatics
+11999147,Computer
+11999149,INFORMS Trans. Educ.
+11999152,Comput. Math. Appl.
+11999154,IEEE Instrum. Meas. Mag.
+11999155,Algorithmica
+11999156,Int. J. Satell. Commun. Netw.
+11999158,Notre Dame J. Formal Log.
+11999162,4OR
+11999163,Eur. J. Comb.
+11999164,Electron. J. Inf. Syst. Dev. Ctries.
+11999165,Des. Codes Cryptogr.
+11999166,Vietnam. J. Comput. Sci.
+11999167,IEEE Trans. Computers
+11999169,IRE Trans. Electron. Comput.
+11999172,SIGWEB Newsl.
+11999173,Inf. Process. Manag.
+11999176,Artif. Intell. Rev.
+11999177,IEEE J. Sel. Top. Signal Process.
+11999181,J. Syst. Sci. Complex.
+11999183,ACM SIGCSE Bull.
+11999185,J. Vis. Lang. Comput.
+11999186,Theor. Comput. Sci.
+11999188,EURO J. Transp. Logist.
+11999189,Comput. Lang. Syst. Struct.
+11999193,IEEE Multim.
+11999194,Comput. Electr. Eng.
+11999196,Lit. Linguistic Comput.
+11999197,Digit. Scholarsh. Humanit.
+11999198,J. Philos. Log.
+11999199,Int. J. Math. Math. Sci.
+11999202,Int. J. Speech Technol.
+11999203,ACM SIGSOFT Softw. Eng. Notes
+11999204,Inf. Retr. J.
+11999205,Inf. Retr.
+11999206,Int. J. Funct. Informatics Pers. Medicine
+11999207,IEEE Trans. Parallel Distributed Syst.
+11999208,Oper. Res. Lett.
+11999209,Enterp. Model. Inf. Syst. Archit. Int. J. Concept. Model.
+11999211,J. Parallel Distributed Comput.
+11999212,IEEE Trans. Computational Imaging
+11999215,EURASIP J. Image Video Process.
+11999216,Computación y Sistemas
+11999218,IEEE Trans. Auton. Ment. Dev.
+11999219,IEEE Trans. Cogn. Dev. Syst.
+11999221,IEEE Trans. Circuits Syst. Video Technol.
+11999223,Microprocess. Microsystems
+11999226,Inf.
+11999227,Comput. Stat.
+11999228,Comput. Stand. Interfaces
+11999231,Educ. Inf. Technol.
+11999232,IEEE Trans. Netw. Serv. Manag.
+11999233,J. Comput. Syst. Sci.
+11999235,ACM Trans. Inf. Syst.
+11999236,SIAM/ASA J. Uncertain. Quantification
+11999237,IEEE Trans. Syst. Man Cybern. Part B
+11999238,IEEE Trans. Syst. Man Cybern.
+11999239,IEEE Trans. Syst. Man Cybern. Part A
+11999241,IEEE Trans. Syst. Man Cybern. Syst.
+11999242,J. Intell. Manuf.
+11999243,Comput. Geosci.
+11999244,Int. J. Intell. Inf. Database Syst.
+11999245,SIAM Rev.
+11999248,Briefings Bioinform.
+11999249,Database J. Biol. Databases Curation
+11999252,IEEE Trans. Comput. Intell. AI Games
+11999253,J. Cell. Autom.
+11999254,Exp. Math.
+11999255,Netw. Protoc. Algorithms
+11999258,Mach. Learn.
+11999262,Int. J. Geogr. Inf. Sci.
+11999264,Parallel Comput.
+11999268,J. Appl. Math.
+11999269,Int. J. IT Bus. Alignment Gov.
+11999272,Neural Comput.
+11999274,Comput. Animat. Virtual Worlds
+11999276,J. Circuits Syst. Comput.
+11999277,Int. J. Artif. Intell. Tools
+11999281,ZOR Methods Model. Oper. Res.
+11999282,Z. Oper. Research
+11999283,Unternehmensforschung
+11999284,Hum. Factors
+11999286,Art Discret. Appl. Math.
+11999288,IEEE Pervasive Comput.
+11999292,Minds Mach.
+11999293,AI Mag.
+11999294,Comput. Vis. Media
+11999296,Nucleic Acids Res.
+11999301,IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+11999302,IPSJ Trans. Comput. Vis. Appl.
+11999304,J. Open Source Softw.
+11999306,Neurocomputing
+11999307,Prod. Eng.
+11999308,Int. J. Parallel Emergent Distributed Syst.
+11999311,IEEE Commun. Surv. Tutorials
+11999313,Art Sci. Eng. Program.
+11999315,J. Rail Transp. Plan. Manag.
+11999316,Inf. Syst. J.
+11999317,Manuf. Serv. Oper. Manag.
+11999318,ACM Trans. Intell. Syst. Technol.
+11999322,J. ACM
+11999323,J. Artif. Intell. Res.
+11999324,J. Informetrics
+11999325,Int. J. Imaging Syst. Technol.
+11999327,IEEE Trans. Robotics
+11999328,IEEE Trans. Robotics Autom.
+11999329,IEEE J. Robotics Autom.
+11999332,ACM Trans. Archit. Code Optim.
+11999334,Comput. Manag. Sci.
+11999335,Electron. Colloquium Comput. Complex.
+11999337,Informatica (Slovenia)
+11999338,Int. J. Netw. Comput.
+11999339,Inf. Syst. Res.
+11999342,IEEE Trans. Control. Syst. Technol.
+11999343,Graphs Comb.
+11999344,Serv. Oriented Comput. Appl.
+11999345,IEEE J. Sel. Areas Commun.
+11999347,"J. Comb. Theory, Ser. A"
+11999348,ACM Trans. Auton. Adapt. Syst.
+11999349,Int. J. Circuit Theory Appl.
+11999351,Int. J. Ultra Wideband Commun. Syst.
+11999352,Digit. Signal Process.
+11999353,Program. Comput. Softw.
+11999356,Intell. Data Anal.
+11999357,Enterp. Inf. Syst.
+11999358,Sci. China Inf. Sci.
+11999359,Sci. China Ser. F Inf. Sci.
+11999362,Educ. Inf.
+11999364,Hum. centric Comput. Inf. Sci.
+11999365,Comput.
+11999366,Program
+11999367,Data Technol. Appl.
+11999372,Adv. Data Anal. Classif.
+11999373,ACM Trans. Interact. Intell. Syst.
+11999374,Int. J. Electron. Bus.
+11999375,IEEE Trans. Biomed. Circuits Syst.
+11999376,Int. J. Syst. Assur. Eng. Manag.
+11999377,Comput. Sci. Eng.
+11999378,Int. J. Softw. Tools Technol. Transf.
+11999379,IEEE Wirel. Commun.
+11999382,Proc. Natl. Acad. Sci. USA
+11999384,Concurr. Eng. Res. Appl.
+11999385,Bioinform.
+11999386,Comput. Appl. Biosci.
+11999389,Eur. J. Law Technol.
+11999392,J. Netw. Syst. Manag.
+11999393,Autom. Control. Comput. Sci.
+11999397,J. Electron. Test.
+11999399,Electron. Commun. Eur. Assoc. Softw. Sci. Technol.
+11999402,Bus. Process. Manag. J.
+11999403,J. Multim. Process. Technol.
+11999404,ACM Trans. Embed. Comput. Syst.
+11999405,J. Assoc. Inf. Syst.
+11999407,Int. J. Robotics Autom.
+11999409,IEEE Trans. Signal Inf. Process. over Networks
+11999411,Internet Res.
+11999412,Int. J. Knowl. Soc. Res.
+11999417,Int. J. Online Eng.
+11999418,Int. J. Online Biomed. Eng.
+11999419,Proces. del Leng. Natural
+11999421,IEEE Trans. Software Eng.
+11999423,ACM Trans. Appl. Percept.
+11999424,EMISA Forum
+11999425,Numerische Mathematik
+11999427,SIGecom Exch.
+11999428,Libr. Trends
+11999429,Adv. Intell. Syst.
+11999431,Int. J. Semantic Comput.
+11999432,Comput. Vis. Sci.
+11999433,Int. J. Comput. Linguistics Chin. Lang. Process.
+11999435,J. Comput. Phys. X
+11999436,Appl. Clin. Inform.
+11999442,Logica Universalis
+11999444,Int. J. Knowl. Based Intell. Eng. Syst.
+11999445,Int. J. Inf. Technol. Decis. Mak.
+11999447,J. Locat. Based Serv.
+11999448,SIAM J. Matrix Anal. Appl.
+11999449,SIAM J. Algebraic Discret. Methods
+11999453,Wirel. Pers. Commun.
+11999455,Int. J. Commun. Networks Inf. Secur.
+11999456,Adv. Bioinformatics
+11999458,IEEE Trans. Inf. Theory
+11999459,IRE Trans. Inf. Theory
+11999462,Int. J. Inf. Technol. Proj. Manag.
+11999463,Internet High. Educ.
+11999466,ACM J. Emerg. Technol. Comput. Syst.
+11999467,Russ. Digit. Libr. J.
+11999469,New Media Soc.
+11999472,Connect. Sci.
+11999478,Ind. Manag. Data Syst.
+11999479,New Rev. Hypermedia Multim.
+11999481,IEEE Trans. Vis. Comput. Graph.
+11999482,J. Phonetics
+11999483,Adv. Data Sci. Adapt. Anal.
+11999484,Microelectron. J.
+11999486,Int. J. Auton. Adapt. Commun. Syst.
+11999487,Geo spatial Inf. Sci.
+11999488,Poiesis Prax.
+11999489,Artif. Life Robotics
+11999491,J. Inf. Syst.
+11999492,Int. J. Hum. Comput. Interact.
+11999493,Int. J. Neural Syst.
+11999495,J. Inf. Technol. Constr.
+11999497,ACM Trans. Design Autom. Electr. Syst.
+11999498,Comput. Appl. Eng. Educ.
+11999502,Angew. Inform.
+11999503,Wirtschaftsinf.
+11999506,J. Glob. Optim.
+11999507,IEEE Trans. Consumer Electron.
+11999508,Inf. Manag.
+11999511,Int. J. Math. Model. Numer. Optimisation
+11999513,Eur. Trans. Telecommun.
+11999514,Trans. Emerg. Telecommun. Technol.
+11999516,IEEE Trans. Multim.
+11999518,CoRR
+11999519,Log. Methods Comput. Sci.
+11999521,J. Syst. Control. Eng.
+11999522,Adv. Eng. Informatics
+11999525,Int. J. Comput. Sci. Educ. Sch.
+11999526,IET Commun.
+11999527,Adv. Multim.
+11999528,Int. J. Ad Hoc Ubiquitous Comput.
+11999531,Bull. IEEE Tech. Comm. Digit. Libr.
+11999534,J. Appl. Non Class. Logics
+11999536,Int. J. Electron. Commer.
+11999537,Trans. Petri Nets Other Model. Concurr.
+11999539,Int. J. Oper. Res. Inf. Syst.
+11999542,Int. J. Hybrid Intell. Syst.
+11999543,J. Netw. Comput. Appl.
+11999544,Australas. J. Inf. Syst.
+11999545,Decis. Sci.
+11999547,IGTR
+11999548,Int. J. Artif. Intell. Soft Comput.
+11999549,J. Web Eng.
+11999551,Soft Comput.
+11999552,Swarm Evol. Comput.
+11999554,Math. Model. Anal.
+11999557,Comput. Chem.
+11999558,Comput. Biol. Chem.
+11999559,ACM Comput. Surv.
+11999561,Autom. Remote. Control.
+11999564,Int. J. Inf. Syst. Crisis Response Manag.
+11999565,Appl. Soft Comput.
+11999566,Frontiers Comput. Sci.
+11999567,J. Web Semant.
+11999568,Int. J. Inf. Technol. Manag.
+11999572,Bull. EATCS
+11999574,Pattern Anal. Appl.
+11999575,Mob. Networks Appl.
+11999576,Int. J. Gen. Syst.
+11999578,Int. Arab J. Inf. Technol.
+11999579,Proc. VLDB Endow.
+11999581,Opt. Switch. Netw.
+11999583,IEEE Trans. Engineering Management
+11999585,Math. Oper. Res.
+11999586,Distributed Parallel Databases
+11999588,Int. J. Comput. Assist. Radiol. Surg.
+11999591,J. Aerosp. Comput. Inf. Commun.
+11999592,J. Aerosp. Inf. Syst.
+11999593,Appl. Math. Lett.
+11999594,J. Bioinform. Comput. Biol.
+11999596,Ars Comb.
+11999598,Math. Comput. Sci.
+11999602,Scientometrics
+11999603,J. Res. Pract. Inf. Technol.
+11999606,Numer. Algorithms
+11999607,Discret. Appl. Math.
+11999611,CVGIP Graph. Model. Image Process.
+11999612,Graph. Model.
+11999615,J. Approx. Theory
+11999616,Discret. Math. Algorithms Appl.
+11999617,Comput. Syst. Sci. Eng.
+11999622,J. Medical Syst.
+11999623,Int. J. Distributed Sens. Networks
+11999624,Math. Program.
+11999625,Quantum
+11999626,BMC Medical Informatics Decis. Mak.
+11999627,IET Cyper-Phys. Syst.: Theory & Appl.
+11999629,IEEE Trans. Pattern Anal. Mach. Intell.
+11999631,Inf. Manag. Comput. Secur.
+11999634,Sci. Robotics
+11999637,login Usenix Mag.
+11999641,J. Low Power Electron.
+11999643,Int. J. Intell. Comput. Cybern.
+11999645,IEEE Softw.
+11999648,Int. J. Fuzzy Syst. Appl.
+11999649,J. Comput. Secur.
+11999652,Int. J. Data Anal. Tech. Strateg.
+11999654,Digit. Tech. J.
+11999655,IEEE Trans. Educ.
+11999658,IEEE Intell. Transp. Syst. Mag.
+11999659,J. Multivar. Anal.
+11999661,Am. Math. Mon.
+11999662,J. Artif. Soc. Soc. Simul.
+11999667,Comput. und Recht
+11999671,Interact. Technol. Smart Educ.
+11999673,Int. J. Manuf. Technol. Manag.
+11999674,Medical Biol. Eng. Comput.
+11999676,PeerJ Prepr.
+11999677,J. Comput. Assist. Learn.
+11999679,Int. J. Interact. Multim. Artif. Intell.
+11999681,IEEE Trans. Signal Process.
+11999682,IEEE Trans. Acoust. Speech Signal Process.
+11999686,Int. J. Softw. Informatics
+11999688,Wirel. Networks
+11999689,IEEE Netw.
+11999692,Document Numérique
+11999693,Cogn. Process.
+11999695,Coll. Res. Libr.
+11999699,SIGIR Forum
+11999701,Digit. Gov. Res. Pract.
+11999702,Commun. ACM
+11999703,ACM Trans. Model. Comput. Simul.
+11999706,J. Appl. Log.
+11999707,J. Comput. Virol.
+11999709,Eur. J. Inf. Syst.
+11999713,Math. Soc. Sci.
+11999714,IEEE Trans. Green Commun. Netw.
+11999718,Games
+11999722,Int. J. Found. Comput. Sci.
+11999723,Future Gener. Comput. Syst.
+11999724,Int. J. Appl. Earth Obs. Geoinformation
+11999726,Inf. Econ. Policy
+11999728,Int. J. Humanoid Robotics
+11999729,Comput. Law Secur. Rev.
+11999732,Bio Algorithms Med Syst.
+11999734,Logist. Res.
+11999735,Scalable Comput. Pract. Exp.
+11999736,Biomed. Signal Process. Control.
+11999737,Evol. Syst.
+11999738,Soc. Networks
+11999741,IEEE Signal Process. Mag.
+11999742,Secur. Commun. Networks
+11999743,Cybern. Syst.
+11999744,Ann. Softw. Eng.
+11999748,Int. J. Hum. Comput. Stud.
+11999749,Int. J. Man Mach. Stud.
+11999751,MIS Q. Executive
+11999756,Electron. Publ.
+11999757,Ann. Pure Appl. Log.
+11999758,Ann. Math. Log.
+11999762,Appl. Intell.
+11999767,Robotica
+11999771,IEEE CAA J. Autom. Sinica
+11999772,AGIT Journal Angew. Geoinformatik
+11999774,Comput. Biol. Medicine
+11999775,J. Glob. Inf. Manag.
+11999777,Int. J. Medical Eng. Informatics
+11999778,Knowl. Based Syst.
+11999779,Microelectron. Reliab.
+11999781,IEEE Trans. Inf. Forensics Secur.
+11999782,IEEE J. Emerg. Sel. Topics Circuits Syst.
+11999785,Comput. Appl. Math.
+11999788,Asymptot. Anal.
+11999789,Biol. Cybern.
+11999795,J. Comput. Mediat. Commun.
+11999796,Eng. Appl. Artif. Intell.
+11999798,Cogn. Syst. Res.
+11999801,Fuzzy Sets Syst.
+11999802,J. Vis.
+11999804,Int. J. Commun. Netw. Syst. Sci.
+11999805,Int. J. Bus. Intell. Data Min.
+11999806,J. Adv. Inf. Fusion
+11999807,J. Inf. Sci.
+11999809,Inf. Soc.
+11999813,J. Heuristics
+11999814,Comput. Entertain.
+11999815,Trans. Data Priv.
+11999816,J. Documentation
+11999821,Int. J. Crit. Comput. Based Syst.
+11999823,IACR Trans. Cryptogr. Hardw. Embed. Syst.
+11999824,Energy Inform.
+11999826,LISP Symb. Comput.
+11999827,ACM Trans. Sens. Networks
+11999828,Entropy
+11999829,Sci. Program.
+11999831,J. VLSI Signal Process.
+11999833,Data Knowl. Eng.
+11999834,SIGACT News
+11999835,J. Optim. Theory Appl.
+11999837,Model. Assist. Stat. Appl.
+11999838,J. Inform. and Commun. Convergence Engineering
+11999839,Comput. Intell. Neurosci.
+11999842,J. Imaging
+11999843,Math. Comput. Model.
+11999844,Int. J. Biom.
+11999845,Prax. Inf.verarb. Kommun.
+11999846,Comput. Secur.
+11999847,Bell Labs Tech. J.
+11999848,Learn. Publ.
+11999852,Ecol. Informatics
+11999855,Int. J. Ambient Comput. Intell.
+11999856,IEEE Trans. Broadcast.
+11999858,Simul. Pract. Theory
+11999859,Simul. Model. Pract. Theory
+11999861,J. Syst. Softw.
+11999863,IEEE Trans. Intell. Veh.
+11999868,Int. J. Soc. Media Interact. Learn. Environ.
+11999869,J. Log. Lang. Inf.
+11999872,SIAM J. Control. Optim.
+11999873,SIAM J. Financial Math.
+11999875,Ingénierie des Systèmes d Inf.
+11999876,J. Community Informatics
+11999877,Inf. Technol. Control.
+11999879,IEEE Trans. Biomed. Eng.
+11999881,Trans. GIS
+11999883,Mark. Sci.
+11999884,J. Soc. Struct.
+11999885,Trans. Inst. Meas. Control
+11999893,Robotics
+11999894,J. Integr. Bioinform.
+11999895,Int. J. Document Anal. Recognit.
+11999898,Comput. Aided Des.
+11999901,i-com
+11999902,J. Inf. Technol. Tour.
+11999903,Comput. Aided Civ. Infrastructure Eng.
+11999904,Comput. Speech Lang.
+11999905,Innov. Syst. Softw. Eng.
+11999907,Int. J. Heal. Inf. Syst. Informatics
+11999908,IEEE Trans. Commun.
+11999911,IEEE Des. Test Comput.
+11999912,IEEE Des. Test
+11999915,Sensors
+11999916,Int. J. Intell. Robotics Appl.
+11999921,Arch. Formal Proofs
+11999922,Proc. IEEE
+11999924,EAI Endorsed Trans. Ind. Networks Intell. Syst.
+11999925,Br. J. Educ. Technol.
+11999926,Comput. Ind. Eng.
+11999927,IEEE J. Biomed. Health Informatics
+11999928,IEEE Trans. Inf. Technol. Biomed.
+11999929,J. Inf. Commun. Ethics Soc.
+11999931,Peer-to-Peer Netw. Appl.
+11999932,Inf. Softw. Technol.
+11999934,Artif. Intell. Res.
+11999935,Commun. Res.
+11999936,PLoS Comput. Biol.
+11999938,Int. J. Comput. Eng. Sci.
+11999939,RAIRO Theor. Informatics Appl.
+11999941,Int. J. Appl. Metaheuristic Comput.
+11999942,Rev. Symb. Log.
+11999944,Contributions Discret. Math.
+11999945,J. Inf. Technol.
+11999952,Commun. Nonlinear Sci. Numer. Simul.
+11999957,Int. J. Fuzzy Log. Intell. Syst.
+11999959,J. Cheminformatics
+11999963,Int. J. Comput. Geom. Appl.
+11999965,Interact. Comput.
+11999967,Games Econ. Behav.
+11999968,IEEE Trans. Control. Netw. Syst.
+11999969,Int. J. Comput. Aided Eng. Technol.
+11999971,J. Autom. Reason.
+11999973,Int. J. Model. Identif. Control.
+11999977,Int. J. Data Min. Bioinform.
+11999978,J. Biomed. Informatics
+11999979,Comput. Biomed. Res.
+11999981,Random Struct. Algorithms
+11999983,SIAM J. Appl. Math.
+11999985,Frontiers Neurorobotics
+11999986,Frontiers Comput. Sci. China
+11999987,IEEE Trans. Fuzzy Syst.
+11999988,J. Log. Comput.
+11999989,Int. J. Web Based Communities
+11999991,User Model. User Adapt. Interact.
+11999993,Comput. Hum. Behav.
+11999995,Aust. J. Intell. Inf. Process. Syst.
+11999996,Informationstechnik Tech. Inform.
+11999998,it Inf. Technol.
+12000000,Data Sci. J.
+12000102,IEEE Trans. Syst. Sci. Cybern.
+12000103,J. Comput.
+12000104,Cyberpsychology Behav. Soc. Netw.
+12000105,Australas. J Comb.
+12000107,Period. Math. Hung.
+12000111,Quantum Inf. Process.
+12000112,J. Adv. Comput. Intell. Intell. Informatics
+12000113,Finance Stochastics
+12000114,Robotics Auton. Syst.
+12000116,Vis. Comput.
+12000117,Comput. Graph. Forum
+12000118,Soc. Netw. Anal. Min.
+12000121,Trans. Case Based Reason.
+12000123,ACM Trans. Database Syst.
+12000125,ACM Trans. Graph.
+12000126,Int. J. Mechatronics Autom.
+12000128,Mach. Learn. Sci. Technol.
+12000129,Data Base
+12000131,ACM SIGAPL APL Quote Quad
+12000132,Informatica
+12000135,J. Lond. Math. Soc.
+12000137,Comput. J.
+12000138,IEEE Veh. Technol. Mag.
+12000142,Frontiers Neuroinformatics
+12000145,Ars Math. Contemp.
+12000146,Softw. Pract. Exp.
+12000148,IEEE Consumer Electron. Mag.
+12000151,IEEE Trans. Neural Networks Learn. Syst.
+12000152,J. Math. Imaging Vis.
+12000154,Bell Syst. Tech. J.
+12000155,AT&T Bell Lab. Tech. J.
+12000156,Adapt. Behav.
+12000157,Probl. Inf. Transm.
+12000158,Ubiquity
+12000161,Int. J. Inf. Decis. Sci.
+12000164,J. Inf. Telecommun.
+12000165,Comput. Sci. Educ.
+12000166,IEICE Electron. Express
+12000168,Mob. Inf. Syst.
+12000169,Ann. des Télécommunications
+12000172,J. Algorithms
+12000173,Int. J. Cyber Behav. Psychol. Learn.
+12000174,Int. J. Interdiscip. Telecommun. Netw.
+12000175,IEEE Trans. Dependable Secur. Comput.
+12000176,J. Comput. Biol.
+12000177,J. Comb. Optim.
+12000182,"J. Graphics, GPU, & Game Tools"
+12000183,J. Math. Cryptol.
+12000184,EURASIP J. Adv. Signal Process.
+12000185,SIGCAS Comput. Soc.
+12000188,J. Manag. Inf. Syst.
+12000189,J. Syst. Archit.
+12000192,SIAM J. Imaging Sci.
+12000193,Fuzzy Optim. Decis. Mak.
+12000196,Int. J. Comput. Intell. Syst.
+12000199,BMC Medical Imaging
+12000202,Int. J. Data Warehous. Min.
+12000203,IEEE Distributed Syst. Online
+12000205,IEEE Trans. Image Process.
+12000206,Transp. Sci.
+12000207,Int. J. Softw. Eng. Knowl. Eng.
+12000208,Mach. Vis. Appl.
+12000209,Computing
+12000212,Int. J. Netw. Virtual Organisations
+12000213,Systems and Computers in Japan
+12000217,IEEE Robotics Autom. Mag.
+12000219,IEEE Commun. Lett.
+12000224,IACR Trans. Symmetric Cryptol.
+12000225,VLDB J.
+12000226,IEEE ACM Trans. Audio Speech Lang. Process.
+12000227,IEEE Trans. Speech Audio Process.
+12000228,Softw. Test. Verification Reliab.

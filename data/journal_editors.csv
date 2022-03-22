@@ -1,0 +1,76 @@
+journal_editors:ID,name:string[]
+1,John W. Finnegan|Marc J. Barr
+2,Alfredo Ferro|Fabrizio Luccio|Peter Widmayer
+3,Ko Nishino|Shang-Hong Lai|Vincent Lepetit|Yoichi Sato
+4,Alessandro Barenghi|Gerardo Pelosi|Giovanni Agosta|Israel Koren|John Goodacre|Mikel Luján
+5,Ewen Denney|Ulrik Pagh Schultz
+6,Belén Melián-Batista|David A. Pelta|J. Marcos Moreno-Vega|José A. Moreno-Pérez|Natalio Krasnogor
+7,Jérôme Olivier Durand-Lose|Maurice Margenstern
+8,Andy Gimblett|Ann Blandford|Giuseppe De Pietro|Harold W. Thimbleby|Luigi Gallo|Patrick Oladimeji
+9,Adrian David Cheok|David Levy|Kate Devlin
+10,Bruce Spencer|Darlene A. Stewart|Margaret-Anne D. Storey
+11,Ralf Lämmel
+12,Robert S. Jones
+13,Cristian Cadar|Jeff Foster
+14,Per Stenström
+15,Ana L. N. Fred|Guy Plantier|Hugo Gamboa|Jan Schier|Mário Forjaz Secca|Tanja Schultz
+16,David De Roure|Pete Burnap|Susan Halford
+17,Dor Abrahamson|Paulo Blikstein
+18,Joan Peckham
+19,Haojin Zhu|Kuai Xu
+20,Wayne R. Cowell
+21,James Trevelyan|Peter I. Corke
+22,Niklas Lavesson|Panayiota Polydoratou|Peter Linde
+23,Carlos Ureña|Ignacio García-Fernández
+24,Nicola Ferro 0001
+25,Michael Moortgat
+26,Fernanda M. R. Alencar|Juan Sánchez|Vera Werneck
+27,Ian Gorton|Innes Jelly|Peter R. Croll
+28,André Schiper|Bertrand Meyer 0001|Jürg Kohlas
+29,Brent Waters|Kobbi Nissim
+30,Jean-Pierre Banâtre
+31,Mordecai J. Golin|Robert Sedgewick
+32,Dale Miller 0001|Ivan Scagnetto
+33,Anish Das Sarma|Pierre Senellart|Reynold Cheng|Silviu Maniu
+34,David P. A. Corney|Dyaa Albakour|Frank Hopfgartner|Gabriella Kazai|Miguel Martinez-Alvarez|Ricardo Campos 0001|Udo Kruschwitz
+35,Shi-Kuo Chang
+36,Balachander Krishnamurthy|Jon Crowcroft
+37,Æleen Frisch
+38,Helena Handschuh|Tim Güneysu
+39,Michael J. Jacobson|Peter Reimann 0001
+40,José Manuél Gómez-Pérez|Jun Zhao 0003|Paolo Missier|Satya S. Sahoo
+41,Holger Sörensen|Winfried Görke
+42,Daniele Miorandi|Lorenzo Maggi|Moshe Haviv|William J. Knottenbelt
+43,Antonia Albani|Jan L. G. Dietz|Jan Verelst
+44,Ioannis Patras|Jakub Lokoc|Klaus Schoeffmann|Stefanos Vrochidis|Tomás Skopal|Vasileios Mezaris|Xirong Li 0001
+45,Kristina Y. Yordanova|Max Schröder|Sebastian Bader 0001|Thomas Kirste
+46,Hilda Tellioglu|Kori Inkpen|Thomas A. Finholt|Tom Gross
+47,Carsten Eickhoff|Gabriella Kazai|Peter Brusilovsky
+48,Ekaterina Shutova|Jonathan May|Marianna Apidianaki|Marine Carpuat|Saif M. Mohammad|Steven Bethard
+49,Andreas Speck|Leszek A. Maciaszek|Ryszard Kowalczyk|Witold Abramowicz
+50,Gary Hsieh|Hao-Chuan Wang|Henry B. L. Duh|Ryan Wang|Xiaojun Bi 0001|Yi Ji|Yihsiu Chen
+51,Youssef Benadada
+52,James Llinas|José M. Molina|Juan M. Corchado|Sara Rodríguez
+53,Bertrand Kerautret|Miguel Colom|Pascal Monasse
+54,António Casimiro|Erwin Schoitsch|Frank Ortmeier|Friedemann Bitsch|Pedro M. Ferreira 0001
+55,Celina Gibbs|Mario Südholt|Olaf Spinczyk
+56,Arto Lepistö|Edward A. Hirsch|Juhani Karhumäki|Michail Kh. Prilutskii
+57,Guilin Qi|Matthew Horridge|Patrick Lambrix
+58,Peter C. Lockemann|Rudolf Bayer|Theo Härder
+59,Dik Lun Lee|Jong-Hyeok Lee|Kam-Fai Wong
+60,Jeffrey M. Tobias
+61,Chris W. Johnson 0001
+62,Davide Sangiorgi|Ioannis Chatzigiannakis|Michael Mitzenmacher|Yuval Rabani
+63,Adnan M. Alattar|Nasir D. Memon
+64,Alexandra A. Pereira Klen|Hamideh Afsarmanesh|Luis M. Camarinha-Matos
+65,Anneli Sundqvist|Gerd Berget|Jan Nolin|Kjell Ivar Skjerdingstad
+66,Katia P. Sycara|Michael J. Wooldridge
+67,Gerald Schimak|Jirí Hrebícek|Ralf Denzer
+68,Alberto Sillitti|Steven D. Fraser
+69,Bo Jiang 0004|Jin Akiyama|Mikio Kano|Xuehou Tan
+70,Deyi Xiong|Haizhou Li 0001|Minghui Dong|Ridong Jiang|Yanfeng Lu
+71,Florent Dupont|Ioannis Pratikakis|Maks Ovsjanikov
+72,Elena V. Ravve|Johann A. Makowsky
+73,Florian Cech|Hilda Tellioglu
+74,Anton Batliner|Oliver Jokisch|Stefan Steidl
+75,Hsing-Chung Chen|Leonard Barolli|Tomoya Enokido

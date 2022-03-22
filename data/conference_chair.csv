@@ -1,0 +1,76 @@
+conference_chair:ID,name:string[]
+76,David Pointcheval|Thomas Johansson 0001
+77,Asunción Moreno|Bente Maegaard|Christopher Cieri|Hitoshi Isahara|Hélène Mazo|Jan Odijk|Joseph Mariani|Khalid Choukri|Kôiti Hasida|Nicoletta Calzolari|Sara Goggi|Stelios Piperidis|Takenobu Tokunaga|Thierry Declerck
+78,Alejandra Cechich|Antonio Vallecillo|Mario Piattini
+79,Beat Signer|Davy Vanacken|Dietrich Kammer|Florian Echtler|Lode Hoste
+80,Guido Salvaneschi|Lukasz Ziarek|Patrick Eugster|Wolfgang De Meuter
+81,Bessam Abdulrazak|Hamdi Aloulou|Mohamed Jmaiel|Mounir Mokhtari|Slim Kallel
+82,Bandana Kar|Guangtao Fu|Shima Mohebbi|Xinyue Ye
+83,Alberto Lluch-Lafuente|Hugo Torres Vieira|Ivan Lanese|Sophia Knight
+84,Bernhard Mitschang|Harald Schöning|Holger Schwarz|Theo Härder|Wolfgang Lehner
+85,Adam Z. Wyner|Brian Davis 0001|Gordon J. Pace
+86,Hamish A. Carr|Ian J. Grimstead
+87,Danilo Beuche|Gunter Saake|Mathieu Acher|Maxime Cordy
+88,Allison Druin|Cliff Lampe|Dan Morris|Jofish Kaye|Juan Pablo Hourcade
+89,George A. Tsihrintzis|Joaquim Filipe|Mohammad S. Obaidat
+90,Claudia Hauff|Edward Curry|Mathieu d'Aquin|Philippe Cudré-Mauroux|Stefan Dietze
+91,Kinshuk|Sahana Murthy|Viraj Kumar
+92,Patrick Albert|Wolfgang Mayer
+93,Nicolas Sendrier
+94,Abdelaziz Bouras|Bernard Grabot|Bruno Vallespir|Dimitris Kiritsis|Samuel Gomes
+95,José Cuena
+96,Gautam S. Thakur|Nicole Ronald|Stephan Winter 0001
+97,Cristian A. Linte|Guoyan Zheng|Hongen Liao|Ken Masamune|Terry M. Peters
+98,Hamid R. Arabnia|Jürgen Becker 0001|Laurence Tianruo Yang|Masaharu Imai|Zoran A. Salcic
+99,Eleni Stroulia|John A. Miller|Kisung Lee|Liang-Jie Zhang
+100,Angelo Di Iorio|Anna Tordai|Christoph Lange 0002|Diego Reforgiato Recupero|Erik Cambria|Iván Cantador|Milan Stankovic|Tommaso Di Noia|Valentina Presutti
+101,Dieter W. Fellner|Stephen N. Spencer
+102,Henk G. Sol|Robert L. Crosslin
+103,Adnan Amin|Dick de Ridder|Mohamed S. Kamel|Robert P. W. Duin|Terry Caelli
+104,Andrew L. Wendelborn|Chris Steketee|James R. Warren|John F. Roddick|Ljiljana Brankovic|Paul D. Coddington
+105,Walling R. Cyre|William M. Tepfenhart
+106,Fatos Xhafa|Leonard Barolli|Michal Gregus
+107,Elaine J. Weyuker|Thomas J. Ostrand
+108,Michael Bailey
+109,Alfons J. Jammel
+110,Herbert Stoyan
+111,Chung-Kuan Cheng|Sherief Reda
+112,Christian Nøhr|Christoph Ulrich Lehmann|Elske Ammenwerth
+113,Franck van Breugel|Marsha Chechik
+114,Faustina Hwang|Jinjuan Heidi Feng|Jonathan Lazar
+115,Mark Daniel Ward|Michael Drmota
+116,Alexis Tsoukiàs|Francesca Rossi
+117,Bruno Baruque|Emilio Corchado|Erkki Oja|Xindong Wu 0001|Álvaro Herrero
+118,John K. Ousterhout
+119,John P. Gallagher|Rob van Glabbeek|Wendelin Serwe
+120,Rokia Missaoui|Vangalur S. Alagar
+121,Fuji Ren|Jingbo Zhu|Liang-Chih Yu|Yuen-Hsien Tseng
+122,Ahmed Eldawy
+123,Frank Schilder|Graham Katz|James Pustejovsky
+124,Keisuke Tanaka|Yuji Suga
+125,Jianhua Chen|Jinguang Sun|Lipo Wang|Xiangfu Meng|Xingwei Wang 0001
+126,Dominik Slezak|Tai-Hoon Kim|Tughrul Arslan|Wai-Chi Fang|Xiaofeng Song
+127,Fabio Kon|Fábio M. Costa|Nanbor Wang|Renato Cerqueira
+128,Antonio Foncubierta-Rodríguez|Henning Müller|Orcun Goksel|Oscar Alfonso Jiménez del Toro
+129,Zoubir Mammeri
+130,Christian Kühnert|Jürgen Beyerer|Oliver Niggemann
+131,Mark S. Nixon|Massimo Tistarelli
+132,Abdelkhalick Mohammad|Matteo Russo|Xin Dong 0011
+133,Ilaria Matteucci|Marinella Petrocchi|Paolo Mori
+134,Athula Ginige|Christopher H. Brooks|David Wolber|Neil Calder
+135,Chantal Taconet|Danny Hughes 0001|Sébastien Leriche
+136,Amra Delic|Catalin-Mihai Barbu|Dmitri Goldenberg|Julia Neidhardt|Ludovik Coba|Markus Zanker|Tsvi Kuflik
+137,James Allen Fill|Mark Daniel Ward
+138,Manfred Broy|Martin Wirsing
+139,Henrik Legind Larsen|Troels Andreasen
+140,David Källberg|Johnny Öberg|Lennart Lindh|Peeter Ellervee|Santiago de Pablo|Timo D. Hämäläinen|Vincent J. Mooney III
+141,Dickson Lukose|Harry S. Delugach|John F. Sowa|Leroy Searle|Mary Keeler
+142,Bogdan Ionescu|Gareth J. F. Jones|Georgios Petkos|Jaeyoung Choi 0002|Maria Eskevich|Markus Schedl|Martha A. Larson|Mohammad Soleymani 0001|Pavel Korshunov|Richard F. E. Sutcliffe|Xavier Anguera
+143,Christian Freksa|Kerstin Schill|Michael Kohlhase
+144,Jeffrey S. Poulin|Premkumar T. Devanbu
+145,Vincent G. Duffy
+146,Dick C. A. Bulterman|Luiz Fernando Gomes Soares|Maria da Graça Campos Pimentel
+147,Arto Salomaa|Carlos Martín-Vide|Gheorghe Paun|Giancarlo Mauri|Grzegorz Rozenberg
+148,Antonio Caruso 0001|Vittorio Bilò
+149,Alonso Inostrosa-Psijas|Cristina Ruiz Martin|María Julia Blas
+150,Antonio Salis|Claudio Schifanella|Dora B. Heras|Emiliano Casalicchio|Emmanuel Jeannot|Felix Wolf 0001|Gabriele Mencagli|José Daniel García Sánchez|Laura Antonelli|Laura Ricci|Marco Beccuti|Ravi Reddy Manumachu|Stephen L. Scott|Valeria Cardellini
