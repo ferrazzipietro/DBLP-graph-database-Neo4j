@@ -17,7 +17,7 @@ The graph has to be loaded from https://dblp.uni-trier.de/xml/ in .xlm format. d
 The XML file can then be converted in CSV following the instructions at https://github.com/ThomHurks/dblp-to-csv, generating a CSV file that is Neo4j compatible:
   1) obtain a local copy of XMLToCSV.py and save it in ~/.../data
   2) from command line launch the following command: 
-          python XMLToCSV.py --annotate --neo4j data/dblp.xml data/dblp.dtd dblp.csv --relations author:authored_by journal:published_in
+          ``python XMLToCSV.py --annotate --neo4j data/dblp.xml data/dblp.dtd dblp.csv --relations author:authored_by journal:published_in``
 These data should be saved in the _Raw_ directory
 
 **GENERATE MISSING DATA**
